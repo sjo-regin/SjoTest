@@ -1,0 +1,5 @@
+C:\Regin\GitHub\SjoTest\src\CSharpCodeScan\obj\x86\Release\CSharpCodeScan.csproj.AssemblyReference.cache
+C:\Regin\GitHub\SjoTest\src\CSharpCodeScan\obj\x86\Release\CSharpCodeScan.Form1.resources
+C:\Regin\GitHub\SjoTest\src\CSharpCodeScan\obj\x86\Release\CSharpCodeScan.Properties.Resources.resources
+C:\Regin\GitHub\SjoTest\src\CSharpCodeScan\obj\x86\Release\CSharpCodeScan.csproj.GenerateResource.cache
+C:\Regin\GitHub\SjoTest\src\CSharpCodeScan\obj\x86\Release\CSharpCodeScan.csproj.CoreCompileInputs.cache

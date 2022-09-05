@@ -27,7 +27,9 @@ namespace CSharpCodeScan
             var class1 = new Class1();
 
             class1.Test1();
-            class1.Test1();
+            class1.Test2();
+            //class1.Test3();
+            class1.Test4();
         }
     }
 }
