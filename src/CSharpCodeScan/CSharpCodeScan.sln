@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpCodeScan", "CSharpCodeScan.csproj", "{548A96EE-3ED2-43B6-B5AC-AE237B5006DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{548A96EE-3ED2-43B6-B5AC-AE237B5006DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{548A96EE-3ED2-43B6-B5AC-AE237B5006DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{548A96EE-3ED2-43B6-B5AC-AE237B5006DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{548A96EE-3ED2-43B6-B5AC-AE237B5006DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EDFB0A9-4E9F-4D1F-8BDC-D8B3671A49B3}
+	EndGlobalSection
+EndGlobal
