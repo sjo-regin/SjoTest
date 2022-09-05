@@ -47,13 +47,15 @@ namespace CSharpCodeScan
 
             }
         }
-        public void Test4(string input)
+        public string MyToLower(string input)
         {
             string kalle;
             int olle;
 
             string kalle2 = input.ToLower();
+            
 
+            return kalle2;
            
         }
     }

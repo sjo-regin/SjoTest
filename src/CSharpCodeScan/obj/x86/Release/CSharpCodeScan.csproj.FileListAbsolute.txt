@@ -7,4 +7,3 @@ C:\Regin\GitHub\SjoTest\src\CSharpCodeScan\bin\x86\Release\CSharpCodeScan.exe
 C:\Regin\GitHub\SjoTest\src\CSharpCodeScan\bin\x86\Release\CSharpCodeScan.pdb
 C:\Regin\GitHub\SjoTest\src\CSharpCodeScan\obj\x86\Release\CSharpCodeScan.exe
 C:\Regin\GitHub\SjoTest\src\CSharpCodeScan\obj\x86\Release\CSharpCodeScan.pdb
-C:\Regin\GitHub\SjoTest\src\CSharpCodeScan\obj\x86\Release\CSharpCodeScan.csproj.AssemblyReference.cache
